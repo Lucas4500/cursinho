@@ -17,3 +17,5 @@ git diff: Mostra as alterações feitas antes do commit.
 git commit: Atrela a modificação feita.
 git config: Determina as configurações do Git em relação a esse Projeto.
 git remote: Adiciona um diretório remoto ao Git, para envio das informações.
+git push: Adiciona os arquivos ao repositório remoto.
+git clone: Pega os arquivos do repositório remoto.
