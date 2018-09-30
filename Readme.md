@@ -16,3 +16,4 @@ git shortlog: Mostra apenas a quantidade de alterações nos arquivos, as mensag
 git diff: Mostra as alterações feitas antes do commit.
 git commit: Atrela a modificação feita.
 git config: Determina as configurações do Git em relação a esse Projeto.
+git remote: Adiciona um diretório remoto ao Git, para envio das informações.
